@@ -1,3 +1,6 @@
-# https://www.robotstxt.org/robotstxt.html
+# robots.txt для сайта-визитки
 User-agent: *
-Disallow:
+Allow: /
+
+# Пути к картам сайта
+Sitemap: https://romanov-ua.github.io/portfolio/sitemap.xml
